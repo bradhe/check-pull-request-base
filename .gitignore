@@ -1,1 +1,7 @@
+# Ignore artifacts we don't want.
 /github-pull-request-base
+*.deb
+/bin
+
+# Ignore Editor stuff
+*.sw[onp]
